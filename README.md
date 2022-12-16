@@ -1,0 +1,2 @@
+# college practicals
+OS LAB
